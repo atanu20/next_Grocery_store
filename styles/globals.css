@@ -391,7 +391,7 @@ section {
 }
 
 .deal {
-  background: url(http://localhost:3000/images/deal-bg.jpg) no-repeat;
+  background: url(https://next-grocery-store.vercel.app/images/deal-bg.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
@@ -474,7 +474,7 @@ section {
 }
 
 .newsletter {
-  background: url(http://localhost:3000/images/newsletter-bg.jpg) no-repeat;
+  background: url(https://next-grocery-store.vercel.app/images/newsletter-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -514,9 +514,9 @@ section {
       from(rgba(0, 0, 0, 0.5)),
       to(rgba(0, 0, 0, 0.5))
     ),
-    url(http://localhost:3000/images/footerbg.jpg) no-repeat;
+    url(https://next-grocery-store.vercel.app/images/footerbg.jpg) no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url(http://localhost:3000/images/footerbg.jpg) no-repeat;
+    url(https://next-grocery-store.vercel.app/images/footerbg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
